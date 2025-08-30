@@ -1,12 +1,5 @@
 # Loan Portfolio Analytics  
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-2b3137?logo=github)](https://github.com/yourusername/loan-portfolio-analytics)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-gold?logo=powerbi)](https://app.powerbi.com/)  
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-%23003366?logo=tableau)](https://public.tableau.com/)  
-
----
-
 ## Table of Contents
 - [Project Overview](#project-overview)  
 - [Objectives](#objectives)  
